@@ -1,0 +1,27 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.body {
+    display: flex;
+}
+
+.div-hero {
+    background-color: #1F2937; 
+}
+
+.button {
+    background-color: #3882F6;
+}
+
+.div-info {
+    background-color: #FFFFFF;
+}
+
+.div-quote {
+    background-color: #E5E7EB;
+}
+
+.div-footer {
+    background-color: #1F2937; 
+}
